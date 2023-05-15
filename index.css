@@ -28,7 +28,7 @@
   height: 20px;
   background: tan;
   position: absolute;
-}
+} 
 
 .rock:before {
   content: "";
